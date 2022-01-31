@@ -5,6 +5,7 @@ import AppProviders from './context';
 
 function App() {
   console.log("Mirror should Work");
+  console.log("Confirming mirror");
   return (
     <AppProviders>
       <Routes/>
