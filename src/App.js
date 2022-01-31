@@ -4,8 +4,7 @@ import './App.css';
 import AppProviders from './context';
 
 function App() {
-  console.log("Mirror should Work");
-  console.log("Confirming mirror");
+  console.log('cleaning logs-----')
   return (
     <AppProviders>
       <Routes/>
